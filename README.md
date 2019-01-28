@@ -16,15 +16,17 @@
   - `High Level` : At any instant, individually display the data which has been inserted newly and the old data that has not yet been burnt
 
 3. a) There is a garage where the access road can accommodate any number of trucks at one time. The garage is built in such a way that only the last truck entered can be moved out. Each of the trucks is identiﬁed by a positive integer (a truck_id). Implement dynamically to handle truck moves, allowing for the following commands: 
-`
+
+```
     i) On_road (truck_id); 
     
     ii) Enter_garage (truck_ id); 
     
     iii) Exit_garage (truck_id); 
     
-    iv) Show_trucks (garage or road); 
-`
+    iv) Show_trucks (garage or road);
+  ```
+    
 If an attempt is made to get a truck out which is not the closest to the garage entry, the error message “Truck x cannot be moved” should be displayed.
 
 b) For the aforementioned scenario, assume now a circular road and two entries: one for entry, another for exit. Trucks can get out only in the order they got in. Write a program dynamically to handle truck moves allowing for the following commands 
