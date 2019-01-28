@@ -3,9 +3,8 @@
 
 [![Data Structures](https://img.shields.io/badge/Data&nbsp;Structures-Algorithms-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) [![Fork this on GitHub](https://img.shields.io/badge/Click&nbsp;to&nbsp;Fork-This&nbsp;repository-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) 
 
-<hr>
-#### QUEUE ADT
-<hr>
+> #### QUEUE ADT
+
 1. In a theme park, the Roller-Coaster ride is started only when a good number of riders line up in the counter (say 20 members). When the ride proceeds with these 20 members, a new set of riders will line up in the counter. This keeps continuing. Implement the above scenario of lining up and processing using arrays with Queue ADT.
   - Low Level: Implement the aforementioned problem
   - Middle Level: Also count the number of adults and children 
@@ -33,9 +32,8 @@ b) For the aforementioned scenario, assume now a circular road and two entries: 
   - Middle Level:Also check the number of services done so far to decide if service charge is required or not
   - High Level:Assuming any nth truck will need a longer period of time for service, that particular truck should be retained in the garage and the links in the stack should be modified accordingly
 
-<hr>
-#### LIST ADT
-<hr>
+
+> #### LIST ADT
 
 1. Details such as Register number, name, quiz-3 marks of those students who wrote for SET-question paper and of those who wrote for SET-B question paper are maintained in sorted order in two separate lists L1 and L2. Write a program to merge the two lists in sorted order so as to facilitate mark entry in faculty login. 
 
