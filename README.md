@@ -1,7 +1,10 @@
 # Data Structures and Algorithms Lab [[CYCLESHEET]](https://github.com/vinitshahdeo/DSA-Lab-Codes/tree/master/CycleSheet)
+
+[![Data Structures](https://img.shields.io/badge/Data&nbsp;Structures-Algorithms-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) [![Fork this on GitHub](https://img.shields.io/badge/Click&nbsp;to&nbsp;Fork-This&nbsp;repository-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork)
+
 ### Lab Assignments for Data Structures and Algoithms
 
-[![Data Structures](https://img.shields.io/badge/Data&nbsp;Structures-Algorithms-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) [![Fork this on GitHub](https://img.shields.io/badge/Click&nbsp;to&nbsp;Fork-This&nbsp;repository-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) 
+[![C++](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://github.com/vinitshahdeo) [![Check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/vinitshahdeo) [![SMILE PLEASE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) 
 
 > #### QUEUE ADT
 
@@ -73,3 +76,7 @@ Later the office personnel wish to sort the records based on the date of renewal
 ### Thanks!
 
 [![Author](https://img.shields.io/badge/Author-@vinitshahdeo-gray.svg?colorA=gray&colorB=dodgerblue)](https://github.com/vinitshahdeo/) ![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/DSA-Lab-Codes/.svg?style=social)
+
+---
+
+[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![for you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/vinitshahdeo) [![Powered By](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/vinitshahdeo)
