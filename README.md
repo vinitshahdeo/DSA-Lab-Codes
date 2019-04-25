@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Lab [[CYCLESHEET]](https://github.com/vinitshahdeo/DSA-Lab-Codes/tree/master/CycleSheet)
 
-[![Data Structures](https://img.shields.io/badge/Data&nbsp;Structures-Algorithms-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) [![Fork this on GitHub](https://img.shields.io/badge/Click&nbsp;to&nbsp;Fork-This&nbsp;repository-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork)
+[![Data Structures](https://img.shields.io/badge/Data&nbsp;Structures-Algorithms-dodgerblue.svg?style=for-the-badge&logo=c%2B%2B)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork) [![Fork this on GitHub](https://img.shields.io/badge/Click&nbsp;to&nbsp;Fork-This&nbsp;repository-orange.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vinitshahdeo/DSA-Lab-Codes/fork)
 
 ### Lab Assignments for Data Structures and Algoithms
 
@@ -75,7 +75,7 @@ Later the office personnel wish to sort the records based on the date of renewal
   
 ### Thanks!
 
-[![Author](https://img.shields.io/badge/Author-@vinitshahdeo-gray.svg?colorA=gray&colorB=dodgerblue)](https://github.com/vinitshahdeo/) ![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/DSA-Lab-Codes/.svg?style=social)
+[![Author](https://img.shields.io/badge/Author-@vinitshahdeo-gray.svg?colorA=gray&colorB=dodgerblue)](https://github.com/vinitshahdeo/) ![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/DSA-Lab-Codes.svg?style=social)
 
 ---
 
